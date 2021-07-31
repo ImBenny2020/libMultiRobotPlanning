@@ -1,0 +1,113 @@
+agents:
+-   goal: [12, 7]
+    name: agent0
+    start: [8, 13]
+-   goal: [8, 7]
+    name: agent1
+    start: [12, 13]
+-   goal: [12, 13]
+    name: agent2
+    start: [8, 7]
+-   goal: [8, 13]
+    name: agent3
+    start: [12, 7]
+-   goal: [14, 6]
+    name: agent4
+    start: [6, 14]
+-   goal: [6, 14]
+    name: agent5
+    start: [14, 6]
+-   goal: [6, 6]
+    name: agent6
+    start: [14, 14]
+-   goal: [14, 14]
+    name: agent7
+    start: [6, 6]
+-   goal: [14, 4]
+    name: agent8
+    start: [6, 16]
+-   goal: [6, 16]
+    name: agent9
+    start: [14, 4]
+-   goal: [16, 4]
+    name: agent10
+    start: [4, 16]
+-   goal: [4, 4]
+    name: agent11
+    start: [16, 16]
+-   goal: [16, 16]
+    name: agent12
+    start: [4, 4]
+-   goal: [4, 16]
+    name: agent13
+    start: [16, 4]
+-   goal: [6, 4]
+    name: agent14
+    start: [14, 16]
+-   goal: [14, 16]
+    name: agent15
+    start: [6, 4]
+-   goal: [16, 6]
+    name: agent16
+    start: [4, 14]
+-   goal: [4, 6]
+    name: agent17
+    start: [16, 14]
+-   goal: [16, 14]
+    name: agent18
+    start: [4, 6]
+-   goal: [4, 14]
+    name: agent19
+    start: [16, 6]
+-   goal: [14, 2]
+    name: agent20
+    start: [6, 18]
+-   goal: [6, 2]
+    name: agent21
+    start: [14, 18]
+-   goal: [14, 18]
+    name: agent22
+    start: [6, 2]
+-   goal: [6, 18]
+    name: agent23
+    start: [14, 2]
+-   goal: [4, 18]
+    name: agent24
+    start: [16, 2]
+-   goal: [16, 2]
+    name: agent25
+    start: [4, 18]
+-   goal: [4, 2]
+    name: agent26
+    start: [16, 18]
+-   goal: [16, 18]
+    name: agent27
+    start: [4, 2]
+-   goal: [18, 18]
+    name: agent28
+    start: [2, 2]
+-   goal: [2, 18]
+    name: agent29
+    start: [18, 2]
+
+map:
+    dimensions: [21, 21]
+    obstacles:
+    - [0, 10]
+    - [1, 10]
+    - [2, 10]
+    - [3, 10]
+    - [4, 10]
+    - [6, 10]
+    - [7, 10]
+    - [8, 10]
+    - [9, 10]
+    - [11, 10]
+    - [12, 10]
+    - [13, 10]
+    - [14, 10]
+    - [16, 10]
+    - [17, 10]
+    - [18, 10]
+    - [19, 10]
+    - [20, 10]
